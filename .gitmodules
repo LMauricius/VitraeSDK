@@ -1,0 +1,9 @@
+[submodule "VitraeEngine"]
+	path = VitraeEngine
+	url = git@github.com:LMauricius/VitraeEngine.git
+[submodule "VitraeShowcase"]
+	path = VitraeShowcase
+	url = git@github.com:LMauricius/VitraeShowcase.git
+[submodule "VitraeDocs"]
+	path = VitraeDocs
+	url = git@github.com:LMauricius/VitraeDocs.git
