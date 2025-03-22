@@ -3,4 +3,5 @@ project(VitraeSDK)
 
 add_subdirectory(VitraeEngine)
 add_subdirectory(VitraePluginOpenGL)
+add_subdirectory(VitraePluginBasicComposition)
 add_subdirectory(VitraeShowcase)

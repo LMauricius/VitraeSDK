@@ -10,3 +10,6 @@
 [submodule "VitraePluginOpenGL"]
 	path = VitraePluginOpenGL
 	url = git@github.com:LMauricius/VitraePluginOpenGL.git
+[submodule "VitraePluginBasicComposition"]
+	path = VitraePluginBasicComposition
+	url = git@github.com:LMauricius/VitraePluginBasicComposition.git
