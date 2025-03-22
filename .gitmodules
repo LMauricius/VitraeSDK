@@ -15,10 +15,10 @@
 	url = git@github.com:LMauricius/VitraePluginBasicComposition.git
 [submodule "VitraePluginFormGeneration"]
 	path = VitraePluginFormGeneration
-	url = ./VitraePluginFormGeneration/
+	url = git@github.com:LMauricius/VitraePluginFormGeneration.git
 [submodule "VitraePluginPhongShading"]
 	path = VitraePluginPhongShading
-	url = ./VitraePluginPhongShading/
+	url = git@github.com:LMauricius/VitraePluginPhongShading.git
 [submodule "VitraePluginShadowFiltering"]
 	path = VitraePluginShadowFiltering
-	url = ./VitraePluginShadowFiltering/
+	url = git@github.com:LMauricius/VitraePluginShadowFiltering.git
