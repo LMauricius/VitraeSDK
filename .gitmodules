@@ -22,3 +22,6 @@
 [submodule "VitraePluginShadowFiltering"]
 	path = VitraePluginShadowFiltering
 	url = git@github.com:LMauricius/VitraePluginShadowFiltering.git
+[submodule "VitraePluginEffects"]
+	path = VitraePluginEffects
+	url = git@github.com:LMauricius/VitraePluginEffects
