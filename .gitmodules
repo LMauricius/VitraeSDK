@@ -26,5 +26,5 @@
 	path = Plugins/Effects
 	url = git@github.com:LMauricius/VitraePluginEffects
 [submodule "VitraePluginGI"]
-	path = VitraePluginGI
+	path = Plugins/GI
 	url = git@github.com:LMauricius/VitraePluginGI.git
