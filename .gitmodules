@@ -1,27 +1,27 @@
 [submodule "VitraeEngine"]
-	path = VitraeEngine
+	path = Engine
 	url = git@github.com:LMauricius/VitraeEngine.git
 [submodule "VitraeShowcase"]
-	path = VitraeShowcase
+	path = Showcase
 	url = git@github.com:LMauricius/VitraeShowcase.git
 [submodule "VitraeDocs"]
-	path = VitraeDocs
+	path = Docs
 	url = git@github.com:LMauricius/VitraeDocs.git
 [submodule "VitraePluginOpenGL"]
-	path = VitraePluginOpenGL
+	path = Plugins/OpenGL
 	url = git@github.com:LMauricius/VitraePluginOpenGL.git
 [submodule "VitraePluginBasicComposition"]
-	path = VitraePluginBasicComposition
+	path = Plugins/BasicComposition
 	url = git@github.com:LMauricius/VitraePluginBasicComposition.git
 [submodule "VitraePluginFormGeneration"]
-	path = VitraePluginFormGeneration
+	path = Plugins/FormGeneration
 	url = git@github.com:LMauricius/VitraePluginFormGeneration.git
 [submodule "VitraePluginPhongShading"]
-	path = VitraePluginPhongShading
+	path = Plugins/PhongShading
 	url = git@github.com:LMauricius/VitraePluginPhongShading.git
 [submodule "VitraePluginShadowFiltering"]
-	path = VitraePluginShadowFiltering
+	path = Plugins/ShadowFiltering
 	url = git@github.com:LMauricius/VitraePluginShadowFiltering.git
 [submodule "VitraePluginEffects"]
-	path = VitraePluginEffects
+	path = Plugins/Effects
 	url = git@github.com:LMauricius/VitraePluginEffects
