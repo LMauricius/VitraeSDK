@@ -25,3 +25,6 @@
 [submodule "VitraePluginEffects"]
 	path = Plugins/Effects
 	url = git@github.com:LMauricius/VitraePluginEffects
+[submodule "Roadmap"]
+	path = Roadmap
+	url = git@github.com:LMauricius/VitraeRoadmap.git
